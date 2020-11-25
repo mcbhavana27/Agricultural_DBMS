@@ -9,8 +9,6 @@
 * mysql -h 127.0.0.1 -u root --port=5005 -p
 * then enter password
 
-### to compile .py
-
 To run the .py file
 * python3 test1.py
 
