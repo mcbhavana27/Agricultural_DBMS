@@ -1,6 +1,7 @@
-## Compile
 
 ## DataApplications Project
+
+## Compile
 
 * Run docker start (container id)
 * mysql -h 127.0.0.1 -u root --port=5005 -p < agri.sql
